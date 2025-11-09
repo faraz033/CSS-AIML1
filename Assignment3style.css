@@ -1,0 +1,17 @@
+p{
+    color: black;
+    text-align: center;
+    background-color: yellow;
+    border: 15px solid blue;
+    padding: 20px;
+
+}
+div{
+    
+color: black;
+text-align: left;
+border: 5px solid black;
+margin: 120px;
+padding: 20px;
+
+}

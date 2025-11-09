@@ -1,6 +1,6 @@
-p{
+/* p{
     color: blue;
-    background-color: red;
+    background-color: beige;
     text-align: center;
 }
 .p{
@@ -10,3 +10,24 @@ p{
 #jk{
     font-size: 25px;
 }
+div{
+    height: 200px;
+    width: 200px;
+    background-color: beige;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 100px;
+} */
+p{
+    color: blue;
+    text-align: left;
+}
+div{
+color: peru;
+text-align: center;
+border: 5px solid black;
+margin: 120px;
+padding: 20px;
+
+}
+
