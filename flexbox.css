@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    height: 200px;
+    width: 800px;
+    background-color: aqua;
+    border: 1px solid black;
+    flex-direction:  column-reverse;
+    flex-wrap: wrap-reverse;
+    flex-flow: coulmn wrap;
+}
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 1px solid black;
+}
